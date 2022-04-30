@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/dacozai/dacozai">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacozai&hide=java,html,css,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dacozai)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dacozai" />
+</div>
 
 
 <!-- Resources -->
