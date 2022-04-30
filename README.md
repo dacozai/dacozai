@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img height=50 src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg"/>
   </a>
   <a href="https://medium.com/@dacozai">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+    <img height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/medium.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/eden-chen/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
