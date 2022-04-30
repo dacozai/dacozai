@@ -21,9 +21,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/dacozai/dacozai">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacozai&hide=java,html,css,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dacozai" />
-</div>
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://medium.com/@dacozai">
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/eden-chen/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- Resources -->
