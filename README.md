@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Eden's GitHub Stats
 
 <a href="https://github.com/dacozai/dacozai">
-  <img src="https://github-readme-stats.vercel.app/api?username=dacozai&show_icons=true&line_height=27&isFork=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=rose_pine" alt="Eden's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dacozai&show_icons=true&line_height=27&isFork=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=blueberry" alt="Eden's GitHub Stats" />
 </a>
 <a href="https://github.com/dacozai/dacozai">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacozai&hide=java,html,css,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
