@@ -15,24 +15,23 @@ Here are some ideas to get you started:
 
 # Eden's GitHub Stats
 
+<div>
 <a href="https://github.com/dacozai/dacozai">
   <img src="https://github-readme-stats.vercel.app/api?username=dacozai&show_icons=true&line_height=27&isFork=true&count_private=true&theme=blueberry" alt="Eden's GitHub Stats" />
 </a>
 <a href="https://github.com/dacozai/dacozai">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacozai&hide=java,html,css,tex,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<table>
-    <tbody>
-        <tr>
-            <td><a href="https://medium.com/@dacozai">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/eden-chen/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-            </a></td>
-        </tr>
-    </tbody>
-</table>
+</div>
+<div>
+  <a href="https://medium.com/@dacozai">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eden-chen/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+  </a>
+</div>
+
 
 
 <!-- Resources -->
