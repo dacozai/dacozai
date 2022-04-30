@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td><a href="https://medium.com/@dacozai">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/eden-chen/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a></td>
         </tr>
     </tbody>
