@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <div>
   <a>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img height=50 src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/kubernetes.svg"/>
+    <img height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
+    <img height=50 src="https://www.pulumi.com/logos/brand/logo-on-black.svg"/>
   </a>
   <a href="https://medium.com/@dacozai">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
