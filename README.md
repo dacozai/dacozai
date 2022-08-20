@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-    <img height=50 src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/kubernetes.svg"/>
+    <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
     <img height=50 src="https://www.pulumi.com/logos/brand/avatar-on-white.svg"/>
     <img height=50 src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg"/>
