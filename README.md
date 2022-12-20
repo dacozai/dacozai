@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-    <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1024px-Original_Ferris.svg.png?20190503092623"/>
+    <img height=50 src="https://rustacean.net/assets/cuddlyferris.png"/>
     <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
     <img height=50 src="https://www.pulumi.com/logos/brand/avatar-on-white.svg"/>
