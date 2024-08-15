@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
     <img height=50 src="https://www.pulumi.com/logos/brand/avatar-on-white.svg"/>
-    <img height=50 src="https://images.app.goo.gl/2VKVcmCNCL4iPV8g7"/>
+    <img height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKSeHHofuOBadqziA2IzKzya9UO29DKRzQQ&s"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/>
