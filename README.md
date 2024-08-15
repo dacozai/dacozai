@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-    <img height=50 src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab-thumbnail.png"/>
+    <img height=50 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DRust%2BProgramming%2Blanguage&psig=AOvVaw06rdPhTWwm9I1NL6XRDt5P&ust=1723792596305000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjQ3fy59ocDFQAAAAAdAAAAABAP"/>
     <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/>
     <img height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
     <img height=50 src="https://www.pulumi.com/logos/brand/avatar-on-white.svg"/>
